@@ -1,5 +1,5 @@
 # RTL_FIFO_AXI
-I initiated this project to practice digital design fundamentals, master the AXI4-Stream protocol, and dive deep into cycle-accurate verification. This repository showcases the step-by-step architectural evolution of a high-speed data buffer (FIFO) written in SystemVerilog—starting from a basic counter-based memory and optimizing it into a high-performance First-Word Fall-Through (FWFT) pipeline.
+This repository showcases the step-by-step architectural evolution of a high-speed data buffer (FIFO) written in SystemVerilog—starting from a basic counter-based memory and optimizing it into a high-performance First-Word Fall-Through (FWFT) pipeline.
 
 (Note: All designs in this repository are currently implemented as Synchronous FIFOs).
 
