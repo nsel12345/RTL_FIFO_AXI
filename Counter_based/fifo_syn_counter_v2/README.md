@@ -1,6 +1,3 @@
-***
-
-```markdown
 # Synchronous FIFO: Counter Architecture (Version 2)
 
 ## 📌 Version Objective
